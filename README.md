@@ -3,15 +3,7 @@ Arithmographs in Python.
 
 An arithmograph is a kind of a numeric crossword puzzle, where instead of filling the rows and columns with words, digits must be found that give numbers that fit the equations.
 
-ABC | - | BBD | = | DEF
-------------------------
- / |    | + |   | -
-------------------------
-GH |  * | GD |  = | BGC
-------------------------
- = |    = |     = |
-------------------------
-DI |  + | BJI | = | BIF
+<img width="128" alt="Screenshot 2022-03-28 at 22 03 45" src="https://user-images.githubusercontent.com/98287394/160486881-18b67892-3c49-43ea-a32c-dbca472182b2.png">
 
 Each letter corresponds to a digit, always the same one, and different digits for different letters.
 
